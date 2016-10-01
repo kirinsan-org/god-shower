@@ -1,2 +1,3 @@
-# god-shower
-God Shower
+# God Shower
+
+https://kirinsan-org.github.io/god-shower/
